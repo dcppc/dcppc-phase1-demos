@@ -1,4 +1,4 @@
-Full Text Search
+# Helium demo 8: Full Text Search
 
 Indexing. The user modifies or creates a data artifact within the commons. As the data is persisted, iRODS notices the action and notifies the indexing pipeline. The pipeline indexes the content. 
 

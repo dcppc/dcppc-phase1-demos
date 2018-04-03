@@ -1,5 +1,4 @@
-
-FAIRness Assessment of test data sets
+# Helium demo 10: FAIRness Assessment of test data sets
  
 FAIRness feedback via score
 The first 180 days simulated users (uploading datasets for the first time) will be given preliminary but real-time feedback about their FAIR-TLC score. For instance:
