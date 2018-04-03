@@ -1,4 +1,4 @@
-# Calcium DEMO 2 - Workflows
+# Calcium Demo 2 - Workflows
 
 A given researcher pulls a workflow from Dockstore, runs on samples
 through FireCloud (or other workspace), generates output that can be

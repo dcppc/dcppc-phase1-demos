@@ -1,4 +1,4 @@
-# Calcium DEMO 1 - Data Availability
+# Calcium Demo 1 - Data Availability
 
 Onboard TOPMed CRAMs in Google/AWS clouds, agree on GUIDs used, setup accounts for researchers from TOPMed in the FireCloud and other environments.
 
