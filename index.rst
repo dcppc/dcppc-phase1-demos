@@ -10,4 +10,4 @@ Table of contents:
    :maxdepth: 1
 
    descriptions/index
-   list
+   demo-list
