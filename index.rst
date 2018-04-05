@@ -24,6 +24,7 @@ Table of contents:
 
    descriptions/index
    demo-list
+   toc
 
 Questions or comments? Contact dcppc.inbox@gmail.com.
 
