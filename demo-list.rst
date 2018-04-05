@@ -72,7 +72,7 @@ DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * maybe :doc:`descriptions/helium-demo1`
-* maybe :doc:`descriptions/helium-demo4`
+* :doc:`descriptions/helium-demo4`
 
 Month 4
 -------
@@ -181,7 +181,5 @@ Demos not attached to any milestones:
      
 :doc:`descriptions/argon-demo5`
 
-:doc:`descriptions/helium-demo4`
-  
 :doc:`descriptions/xenon-demo4`
      
