@@ -27,7 +27,7 @@ Month 2
 2M.3.DEMO Searching: Search metadata across catalogs and data storage endpoints
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Teams Argon, Xenon, and Helium - description?
+* Teams Argon and Xenon - description?
 
 Month 3
 -------
@@ -72,6 +72,7 @@ DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * maybe :doc:`descriptions/helium-demo1`
+* maybe :doc:`descriptions/helium-demo4`
 
 Month 4
 -------
@@ -112,7 +113,7 @@ Month 5
 
 * :doc:`descriptions/helium-demo2`
 * :doc:`descriptions/helium-demo3`
-
+* :doc:`descriptions/helium-demo8`
 
 5M.2.DEMO: Registration: Display audit trail for access to restricted data across stacks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,6 +124,7 @@ Month 5
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * :doc:`descriptions/xenon-demo3`
+* :doc:`descriptions/helium-demo12`
 
 5M.4.FULLSTACKS: User data injection and processed in workflow
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
