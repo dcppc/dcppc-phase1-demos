@@ -45,8 +45,8 @@ Month 3
 * :doc:`descriptions/helium-demo10`
 * :doc:`descriptions/helium-demo11`
 
-3M.3.DEMO:Data Analysis: Workflow B2E across Stacks
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3M.3.DEMO:Data Analysis: Workflow (beginning to end) across Stacks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Teams Calcium, Xenon, Helium, and Argon - description?
 
