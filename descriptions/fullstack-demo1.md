@@ -1,4 +1,4 @@
-# DEMO1: FAIR Workflow Portability (Aim 1)
+# Full Stack DEMO1: FAIR Workflow Portability
 Demonstrate that a workflow can be described, implemented, exchanged, and executed across multiple Full Stacks. 
 
 Example: 
