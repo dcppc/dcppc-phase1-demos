@@ -8,6 +8,7 @@ Month 1
 1M.1.DEMO    Searching: Web Interface to search subsets of curated phenotypic/clinical data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* :doc:`descriptions/argon-demo5`
 * Team Carbon - description?
 
 Month 2
@@ -22,11 +23,13 @@ Month 2
 2M.2.Demo Searching: Interoperability of search across clouds
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* :doc:`descriptions/argon-demo8`
 * Teams Helium and Argon - description?
 
 2M.3.DEMO Searching: Search metadata across catalogs and data storage endpoints
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* :doc:`descriptions/argon-demo9`
 * Teams Argon, Xenon, and Helium - description?
 
 Month 3
@@ -63,14 +66,14 @@ DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
 3M.3.FULLSTACKS: Exchange workflow among each stack
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* maybe :doc:`descriptions/argon-demo4`
-* maybe :doc:`descriptions/argon-demo6`
+* :doc:`descriptions/argon-demo6`
 * maybe :doc:`descriptions/calcium-demo2`
 * :doc:`descriptions/xenon-demo1`
 
 3M.5.FULLSTACKS: Test user logon, access data, execute workflow
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* :doc:`descriptions/argon-demo4`
 * maybe :doc:`descriptions/helium-demo1`
 
 Month 4
@@ -123,6 +126,7 @@ Month 5
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * :doc:`descriptions/xenon-demo3`
+* :doc:`descriptions/argon-demo2`
 
 5M.4.FULLSTACKS: User data injection and processed in workflow
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -151,6 +155,7 @@ Month 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * :doc:`descriptions/calcium-demo3`
+* :doc:`descriptions/argon-demo1`
 
 6M5.DEMO: MetaAPI: Deployed across selected APIs in consortium
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -179,12 +184,7 @@ Orphan demos
 
 Demos not attached to any milestones:
 
-:doc:`descriptions/argon-demo1`
-
-:doc:`descriptions/argon-demo2`
      
-:doc:`descriptions/argon-demo5`
-
 :doc:`descriptions/helium-demo4`
   
 :doc:`descriptions/xenon-demo4`
