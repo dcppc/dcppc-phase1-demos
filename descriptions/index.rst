@@ -76,3 +76,16 @@ Team Xenon demos
 :doc:`xenon-demo4`
      
 :doc:`xenon-demo5`
+
+Full Stack demos
+----------------
+
+:doc:`fullstack-demo1`
+     
+:doc:`fullstack-demo2`
+     
+:doc:`fullstack-demo3`
+     
+:doc:`fullstack-demo4`
+     
+:doc:`fullstack-demo5`

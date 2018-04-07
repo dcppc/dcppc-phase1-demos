@@ -127,7 +127,7 @@ Month 5
 5M.4.FULLSTACKS: User data injection and processed in workflow
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* ??
+* :doc:`descriptions/fullstack-demo4`
 
 Month 6
 -------
@@ -160,12 +160,18 @@ Month 6
 6M.1.FULLSTACKS: Refined User Flows across full stacks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* ??
+* :doc:`descriptions/fullstack-demo1`
+
+* :doc:`descriptions/fullstack-demo2`
+
+* :doc:`descriptions/fullstack-demo3`
+
+* :doc:`descriptions/fullstack-demo4`
 
 6M.2.FULLSTACKS: STRETCH: Data produced across FS's and used in other FS's
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* ??
+* :doc:`descriptions/fullstack-demo5`
 
   
 Orphan demos
