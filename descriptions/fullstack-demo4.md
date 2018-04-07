@@ -6,4 +6,4 @@ Demonstrate that researchers can combine new data with core Data Commons dataset
 * The team executes the workflow on the novel dataset to produce a derived dataset that is assigned a new GUID (KC2) and is persisted to the cloud via the Full Stack used in this analysis
 * The same group of researchers is then able to reference this result and share with other researchers within the full stack (see DEMO5 for a more ambitious, cross-stack version of this)  
 * For the purposes of the demo the user triggering workflows can be a mock user but over time it is expected to be a real researcher from TOPMed/GTEx/MODs
-* There is considerablef complexity in this DEMO related to common auth and data access.  We classify this as a “stretch” goal for the 6 month pilot given the complexity.
+* There is considerable complexity in this DEMO related to common auth and data access.  We classify this as a “stretch” goal for the 6 month pilot given the complexity.
