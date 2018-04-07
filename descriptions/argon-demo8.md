@@ -1,11 +1,11 @@
 # Argon Demo 8: Interoperability of search across clouds
 
-* The user is a bioinformatician looking to search across data from data stewards stored in multiple clouds about gene expression in a particular tissue, perhaps to explore differences in gene regulation acros some parameter e.g. sex.
+* The user is a bioinformatician looking to search across data from data stewards stored in multiple clouds about gene expression in a particular tissue, perhaps to explore differences in gene regulation across some parameter, e.g., sex.
 
 * The user environment is a Jupyter notebook.
 
-* The user invokes the CommonShare search API, with appropriate security credentials, via a lightweight python client (transparently and reproducibly downloaded in advance from pypi as specified in the notebook’s requirements.txt file).
-  
+* The user invokes the search API, with appropriate security credentials, via a lightweight python client  (transparently and reproducibly downloaded in advance from pypi as specified in the notebook’s requirements.txt file).
+
 * The user experiments with different search parameters, e.g. ‘kidney’.
 
 * The API invocation triggers a search over standard semantic search APIs including the Monarch search API, which returns a payload indicating data types available for tissue of interest, including MOD data, GO data and GTEx, from multiple clouds rendered in the notebook as a standard python dataframe.
