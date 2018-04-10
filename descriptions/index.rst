@@ -28,6 +28,17 @@ Team Calcium demos
      
 :doc:`calcium-demo3`
 
+Team Carbon demos
+-----------------
+
+:doc:`carbon-demo1`
+     
+:doc:`carbon-demo2`
+     
+:doc:`carbon-demo3`
+
+:doc:`carbon-demo4`
+
 Team Helium demos
 -----------------
 

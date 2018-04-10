@@ -8,7 +8,7 @@ Month 1
 1M.1.DEMO    Searching: Web Interface to search subsets of curated phenotypic/clinical data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Team Carbon - description?
+* :doc:`descriptions/carbon-demo1`
 
 Month 2
 -------
@@ -53,7 +53,7 @@ Month 3
 3M.4.DEMO:Analysis And Training: Web interface to access tools/sample code
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Team Carbon - description?
+* :doc:`descriptions/carbon-demo2`
 
 DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ Month 4
 4M.4.DEMO TEST: TopMed Open Sandboxes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Team Carbon - description?
+* :doc:`descriptions/carbon-demo3`
 
 4M.4.FULLSTACKS: Cross-stack Compute
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -155,7 +155,7 @@ Month 6
 6M5.DEMO: MetaAPI: Deployed across selected APIs in consortium
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Team Carbon - description?
+* :doc:`descriptions/carbon-demo4`
 
 6M.1.FULLSTACKS: Refined User Flows across full stacks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
