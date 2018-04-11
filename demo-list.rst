@@ -55,11 +55,6 @@ Month 3
 
 * Team Carbon - description?
 
-DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Team Nitrogen - prototype delivered.
-
 3M.3.FULLSTACKS: Exchange workflow among each stack
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -76,25 +71,30 @@ DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
 Month 4
 -------
 
-4M.1.DEMO:FAIRness assessment: Demonstration
+4M.1.DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Team Nitrogen - prototype delivered.
+
+4M.2.DEMO:FAIRness assessment: Demonstration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * :doc:`descriptions/helium-demo10`
 * :doc:`descriptions/helium-demo11`
 * duplicate with 3M.1?? 
 
-4M.2.DEMO:APIs: Portable workflow with 2 or more stacks
+4M.3.DEMO:APIs: Portable workflow with 2 or more stacks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * :doc:`descriptions/xenon-demo1`
   
-4M.3.DEMO:APIs:Interservice Interoperability across stacks
+4M.4.DEMO:APIs:Interservice Interoperability across stacks
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * :doc:`descriptions/argon-demo3`
 * :doc:`descriptions/argon-demo6`
 
-4M.4.DEMO TEST: TopMed Open Sandboxes
+4M.5.DEMO TEST: TopMed Open Sandboxes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Team Carbon - description?
