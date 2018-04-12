@@ -55,11 +55,6 @@ Month 3
 
 * :doc:`descriptions/carbon-demo2`
 
-DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Team Nitrogen - prototype delivered.
-
 3M.3.FULLSTACKS: Exchange workflow among each stack
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -75,6 +70,11 @@ DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
 
 Month 4
 -------
+
+4M.1.DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* :doc:`descriptions/nitrogen-demo2`
 
 4M.1.DEMO:FAIRness assessment: Demonstration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
