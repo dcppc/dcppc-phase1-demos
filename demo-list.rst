@@ -74,7 +74,7 @@ Month 4
 4M.1.DEMO: Automatically Generated Jupyter Notebook Reports for RNA-seq Data Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Team Nitrogen - prototype delivered.
+* :doc:`descriptions/nitrogen-demo2`
 
 4M.2.DEMO:FAIRness assessment: Demonstration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

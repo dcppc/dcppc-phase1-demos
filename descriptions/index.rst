@@ -64,6 +64,11 @@ Team Helium demos
      
 :doc:`helium-demo11`
 
+Team Nitrogen demos
+-------------------
+
+:doc:`nitrogen-demo2`
+
 Team Xenon demos
 ----------------
 
