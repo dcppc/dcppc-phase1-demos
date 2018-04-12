@@ -22,8 +22,6 @@ Full table of contents
    ./descriptions/carbon-demo3.md
    ./descriptions/carbon-demo4.md
    ./descriptions/helium-demo1.md
-   ./descriptions/helium-demo10.md
-   ./descriptions/helium-demo11.md
    ./descriptions/helium-demo2.md
    ./descriptions/helium-demo3.md
    ./descriptions/helium-demo4.md
@@ -32,6 +30,9 @@ Full table of contents
    ./descriptions/helium-demo7.md
    ./descriptions/helium-demo8.md
    ./descriptions/helium-demo9.md
+   ./descriptions/helium-demo10.md
+   ./descriptions/helium-demo11.md
+   ./descriptions/helium-demo12.md
    ./descriptions/xenon-demo1.md
    ./descriptions/xenon-demo2.md
    ./descriptions/xenon-demo3.md
