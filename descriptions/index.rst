@@ -64,6 +64,8 @@ Team Helium demos
      
 :doc:`helium-demo11`
 
+:doc:`helium-demo12`
+
 Team Xenon demos
 ----------------
 
