@@ -67,7 +67,7 @@ Team Helium demos
 Team Nitrogen demos
 -------------------
 
-:doc:`nitrogen-demo1'
+:doc:`nitrogen-demo1`
 
 :doc:`nitrogen-demo2`
 
