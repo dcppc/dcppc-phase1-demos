@@ -42,6 +42,7 @@ Month 3
 3M.2.DEMO: FAIRness assessment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* :doc:`descriptions/nitrogen-demo1`
 * :doc:`descriptions/helium-demo10`
 * :doc:`descriptions/helium-demo11`
 
