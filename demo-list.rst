@@ -80,6 +80,7 @@ Month 4
 4M.2.DEMO:FAIRness assessment: Demonstration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* :doc:`descriptions/nitrogen-demo3`
 * :doc:`descriptions/helium-demo10`
 * :doc:`descriptions/helium-demo11`
 * duplicate with 3M.1?? 

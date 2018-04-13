@@ -34,6 +34,7 @@ Full table of contents
    ./descriptions/helium-demo9.md
    ./descriptions/nitrogen-demo1.md
    ./descriptions/nitrogen-demo2.md
+   ./descriptions/nitrogen-demo3.md
    ./descriptions/xenon-demo1.md
    ./descriptions/xenon-demo2.md
    ./descriptions/xenon-demo3.md

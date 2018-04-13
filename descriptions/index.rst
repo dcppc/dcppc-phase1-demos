@@ -71,6 +71,8 @@ Team Nitrogen demos
 
 :doc:`nitrogen-demo2`
 
+:doc:`nitrogen-demo3`
+
 Team Xenon demos
 ----------------
 
