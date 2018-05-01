@@ -1,6 +1,6 @@
-=======================================
-List of Milestones and Associated Demos
-=======================================
+=============================
+List of Deliverables by Month
+=============================
 
 Month 1
 -------
@@ -179,7 +179,7 @@ Month 6
 Orphan demos
 ------------
 
-Demos not attached to any milestones:
+Demos not attached to any month:
 
 :doc:`descriptions/argon-demo1`
 
