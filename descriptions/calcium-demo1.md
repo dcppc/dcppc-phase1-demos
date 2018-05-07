@@ -1,18 +1,6 @@
-# Calcium Demo 1 - Data Availability
+# Calcium Demo 1 - Searching: Web Interface to search subsets of curated phenotypic/clinical data
 
-Onboard TOPMed CRAMs in Google/AWS clouds, agree on GUIDs used, setup accounts for researchers from TOPMed in the FireCloud and other environments.
+This demo is tracked with this ticket: https://github.com/dcppc/dcppc-deliverables/issues/1
 
-How this relates to other full stacks:
-*	We  onboard TOPMed/GTEx data in our respective systems using a common set of GUIDs (aliases)
-	* We will collaborate with Team Argon and KC2 to come up with minids for TopMed datasets encapsulated as BDBags (and share these with the other full stacks so we can have agreed upon GUIDs for TOPMed/GTEx data)
-*	Team Xenon, Team Calcium, and potentially other full stacks are implementing a DOS layer on top of our storage systems so data can be accessed in the same way, using the same IDs (or aliases). Can be a lambda proxy.
-	* Both team Calcium and team Argon will use the same minids and BDBags for analysis on their respective platforms to generate results
-*	Each system has a workspace or data browser so people can find the data in the respective systems. Importantly, all systems will point to the same data on cloud infrastructures (ie, data won’t be replicated for each stack). 
-    *	Calcium will use Boardwalk for this 
-    *	Xenon will use their own GUI web app
-    *	Argon will use Globus
-    *	Helium will use CommonsShare 
-    
-How this will be demonstrated:
-
-*	Each Team will live demo the data onboarded in their respective workspace/data browser UI
+Team Calcium has created a short video to demonstrate a simple web interface to search subsets of curated phenotypic/clinical data for selected studies from TOPMed and GTex. The video demonstrates how we use a data model to organize metadata in a graphical format from different studies to facilitate cross-project analysis. We also present a GraphQL interface to run rich queries to search for and filter data using different phenotypic and clinical data variables and run analysis using Jupyter notebook.
+https://uchicago.box.com/s/67eyif5sa30j091sezvvdcyrceld6qqe

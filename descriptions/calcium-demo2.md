@@ -1,19 +1,18 @@
-# Calcium Demo 2 - Workflows
+# Calcium Demo 2 - Data Availability
 
-A given researcher pulls a workflow from Dockstore, runs on samples
-through FireCloud (or other workspace), generates output that can be
-shared in FireCloud (or other workspace) with other TOPMed
-researchers.
+Onboard TOPMed CRAMs in Google/AWS clouds, agree on GUIDs used, setup accounts for researchers from TOPMed in the FireCloud and other environments.
 
 How this relates to other full stacks:
-*	Register CWL and WDL versions of TOPMed workflow in Dockstore
-	* Team Argon, Team Calcium, and potentially other teams will collaborate on creating a CWL/WDL workflow for TopMed data analysis, publish the workflow in DockStore.  
-*	Each team will execute the workflow on test data and produce a comparable result.
-    *	The execution takes place via WES gateway for Team Calcium (Firecloud, Toil, and Framework services) and Team Xenon (can be a lambda proxy to SBG)
-	* Team Argon will use the same workflow on datasets from Demo 1 to generate results that can be further analyzed using other team’s capabilities (effectively some form of Demo 3 below)
-*	Also show UI-based workflow “Launch With” function in Xenon and Calcium platforms
+*	We  onboard TOPMed/GTEx data in our respective systems using a common set of GUIDs (aliases)
+	* We will collaborate with Team Argon and KC2 to come up with minids for TopMed datasets encapsulated as BDBags (and share these with the other full stacks so we can have agreed upon GUIDs for TOPMed/GTEx data)
+*	Team Xenon, Team Calcium, and potentially other full stacks are implementing a DOS layer on top of our storage systems so data can be accessed in the same way, using the same IDs (or aliases). Can be a lambda proxy.
+	* Both team Calcium and team Argon will use the same minids and BDBags for analysis on their respective platforms to generate results
+*	Each system has a workspace or data browser so people can find the data in the respective systems. Importantly, all systems will point to the same data on cloud infrastructures (ie, data won’t be replicated for each stack). 
+    *	Calcium will use Boardwalk for this 
+    *	Xenon will use their own GUI web app
+    *	Argon will use Globus
+    *	Helium will use CommonsShare 
+    
 How this will be demonstrated:
-*	We will show the workflow in Dockstore
-*	Each Team will live demo the launch of this workflow and switch to a precomputed result on the same sample, indicating concordant results across stacks
-*	For those Teams supporting a GUI launch approach, live demo that UI
 
+*	Each Team will live demo the data onboarded in their respective workspace/data browser UI
