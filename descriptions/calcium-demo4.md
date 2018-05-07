@@ -1,4 +1,4 @@
-# Calcium Demo 3 - Distributed, Cross-Stack Compute
+# Calcium Demo 4 - Distributed, Cross-Stack Compute
 
 This demo would be a stretch goal in the sense that to fully
 demonstrate this we need buy-in from multiple full stacks.  The idea
